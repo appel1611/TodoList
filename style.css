@@ -74,3 +74,8 @@ input{
 .tasks:visited{
     color: var(--btn);
 }
+
+.complete{
+    color: var(--bg-01);
+    text-decoration: line-through;
+}

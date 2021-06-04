@@ -38,6 +38,7 @@ input{
     padding: 1rem;
     width: 50%;
     font-size: 1.2rem;
+    border: 1px solid var(--bg-02);
     outline: none;
 }
 
